@@ -1,2 +1,6 @@
 # My-Calculator
-A simple calculator made with HTML, CSS, and JavaScript
+A very simple calculator application made with HTML, CSS, and JavaScript
+
+##Screenshot 
+
+ <img src=" " width="200" />
