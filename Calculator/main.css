@@ -24,6 +24,14 @@ body{
     height: 600px;
 }
 
+.equation{
+    color: #888;
+    font-size: 20px;
+    text-align: right;
+    padding: 10px 24px;
+    min-height: 30px;
+}
+
 
 input{
     width:100%;
@@ -35,6 +43,8 @@ input{
     font-size:50px;
     text-align: right;
     cursor:pointer;
+    color:white;
+    outline:none;
 }
 
 input::placeholder{
